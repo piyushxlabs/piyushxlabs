@@ -1,3 +1,8 @@
+<!-- Profile Banner -->
+<a href="https://github.com/piyushxlabs">
+  <img src="banner.png" alt="PiyushXLabs GitHub Banner" width="100%">
+</a>
+
 # 👋 Hi there, I’m Piyush Jaguri  
 
 ### 💡 Aspiring AI Entrepreneur | Data Science Learner | Automation Enthusiast  
