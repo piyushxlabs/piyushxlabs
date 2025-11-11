@@ -62,7 +62,7 @@ Currently learning **AI, Data Science, and Automation** through the **IIT Indore
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-jaguri-a9169338b)
 [![Email](https://img.shields.io/badge/Email-piyushjaguri13@gmail.com-blue?style=flat&logo=gmail)](mailto:piyushjaguri13@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blueviolet?style=flat&logo=vercel)](#)  
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-purple?style=for-the-badge&logo=vercel)](https://piyush-premium-portfolio.vercel.app)
 
 ---
 
