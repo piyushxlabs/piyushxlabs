@@ -230,17 +230,17 @@ Python automation bots that eliminate repetitive manual workflows — designed f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=piyushxlabs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=piyushxlabs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" height="170" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushxlabs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushxlabs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320&cache_seconds=1800" height="170" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=piyushxlabs&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00C8FF&fire=00E5A0&currStreakLabel=00C8FF" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=piyushxlabs&theme=tokyonight&hide_border=true&ring=00C8FF&fire=00E5A0&currStreakLabel=00C8FF&sideLabels=00C8FF" width="65%" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=piyushxlabs&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=piyushxlabs&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" width="100%" />
 
 </div>
 
@@ -339,6 +339,6 @@ If you're a **founder, AI builder, entrepreneur, or mentor** — let's talk.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5A0,50:0066FF,100:00C8FF&height=130&section=footer&text=piyushxlabs&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5A0,50:0066FF,100:00C8FF&height=130&section=footer&text=piyushxlabs%20%E2%80%94%20Turning%20Ideas%20into%20AI%20That%20Ships&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
