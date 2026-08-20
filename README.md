@@ -66,6 +66,8 @@ I don't build demos. I build systems with **state machines, test suites, and pro
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -96,6 +98,8 @@ I don't build demos. I build systems with **state machines, test suites, and pro
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-00C8FF?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0066FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 <br/>
 
@@ -151,13 +155,14 @@ An autonomous conversational system with stateful multi-turn dialogue, structure
 </td>
 <td width="50%" valign="top">
 
-### 🌙 Krishna Chandra Astrology
+### 🌙 [Krishna Chandra Astrology](https://krishna-chandra-astrology.vercel.app/)
 **Commercial Client SaaS Platform**
 
 A high-ticket astrology consultation platform — automated booking workflows, custom interactive UI, and live client scheduling. **Active in production**, generating real revenue for a real client.
 
 `TypeScript` `Next.js` `Tailwind CSS` `Vercel`
 
+[![Live](https://img.shields.io/badge/🌐_LIVE-Visit_Site-00C8FF?style=flat-square)](https://krishna-chandra-astrology.vercel.app/)
 [![Repo](https://img.shields.io/badge/📁_REPO-GitHub-181717?style=flat-square&logo=github)](https://github.com/piyushxlabs/krishna-chandra-astrology)
 
 </td>
@@ -172,17 +177,13 @@ A high-ticket astrology consultation platform — automated booking workflows, c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=piyushxlabs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0A0E14&title_color=00E5A0&icon_color=00C8FF&text_color=c9d1d9&cache_seconds=1800" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=piyushxlabs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushxlabs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320&bg_color=0A0E14&title_color=00E5A0&text_color=c9d1d9&cache_seconds=1800" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushxlabs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="170" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=piyushxlabs&theme=tokyonight&hide_border=true&background=0A0E14&ring=00C8FF&fire=00E5A0&currStreakLabel=00E5A0&sideLabels=00C8FF" width="65%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=piyushxlabs&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=piyushxlabs&theme=tokyonight&hide_border=true" width="65%" />
 
 </div>
 
