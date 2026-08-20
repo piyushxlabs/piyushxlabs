@@ -1,12 +1,12 @@
 <!-- ============================================ -->
 <!--            WAVE HEADER                      -->
 <!-- ============================================ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,50:0066FF,100:00E5A0&height=230&section=header&text=PIYUSH%20JAGURI&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=AI-Native%20Vibe%20Coder%20%E2%80%A2%20Autonomous%20Systems%20Architect&descSize=18&descAlignY=58&descColor=00E5A0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,50:0066FF,100:00E5A0&height=230&section=header&text=PIYUSH%20JAGURI&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=AI-Nat[...]
 
 <div align="center">
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=23&pause=1100&color=00E5A0&center=true&vCenter=true&width=760&height=50&lines=Autonomous+AI+Systems+Architect+%E2%9A%A1;Shipping+Production+Agents%2C+Not+Demos+%F0%9F%A4%96;LangGraph+%C2%B7+FastAPI+%C2%B7+Next.js+16+%F0%9F%9A%80;161+Automated+Tests.+100%25+Pass.+%E2%9C%85;IIT+Indore+%E2%80%94+Drishti+CPS+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=23&pause=1100&color=00E5A0&center=true&vCenter=true&width=760&height=50&lines=Autonomous+AI+Systems+Architect+%E2%9A%A[...]
 
 <br/>
 
@@ -56,7 +56,7 @@ class PiyushJaguri:
     trajectory  = "Building AI SaaS products under the piyushxlabs brand — full-time."
 ```
 
-At 17, most developers are copying tutorials. I'm shipping **deterministic, test-guarded AI agents** that close deals, qualify leads, and run 24/7 without supervision. Age isn't a disclaimer here — it's the reason I move faster than teams three times my size and still ship with guardrails they skip.
+At 17, most developers are copying tutorials. I'm shipping **deterministic, test-guarded AI agents** that close deals, qualify leads, and run 24/7 without supervision. Age isn't a disclaimer here [...]
 
 I don't build demos. I build systems with **state machines, test suites, and production dashboards** — the kind of infrastructure that separates a real product from a weekend hack.
 
@@ -110,7 +110,7 @@ I don't build demos. I build systems with **state machines, test suites, and pro
 ### 🔥 The Midnight Closer
 **Flagship — Autonomous Real Estate AI Agent**
 
-An AI sales closer that never sleeps. Deterministic **4-turn LangGraph qualification state machine**, live Google Calendar FreeBusy slot discovery, a 3-layer anti-fraud No-Show Shield, and a real-time SSE broker dashboard on Next.js 16.
+An AI sales closer that never sleeps. Deterministic **4-turn LangGraph qualification state machine**, live Google Calendar FreeBusy slot discovery, a 3-layer anti-fraud No-Show Shield, and a real[...]
 
 **161 automated tests. 100% pass rate.** This isn't a chatbot — it's infrastructure that closes deals while you sleep.
 
@@ -125,7 +125,7 @@ An AI sales closer that never sleeps. Deterministic **4-turn LangGraph qualifica
 ### 🎨 Piyush Premium Portfolio
 **Cinematic Developer Experience**
 
-Ultra-responsive, dark-mode developer experience built to stop visitors instantly — interactive shaders, an origin story timeline, dynamic glassmorphic UI, and micro-interactions tuned frame by frame.
+Ultra-responsive, dark-mode developer experience built to stop visitors instantly — interactive shaders, an origin story timeline, dynamic glassmorphic UI, and micro-interactions tuned frame by[...]
 
 Not a template. A statement.
 
@@ -142,7 +142,7 @@ Not a template. A statement.
 ### 🤖 Aanya AI Agent
 **WhatsApp Conversational Intelligence**
 
-An autonomous conversational system with stateful multi-turn dialogue, structured outputs via the **Google Gemini API**, 10 custom external tools, automated payment verification, and clean human-escalation handoff when the agent hits its limits.
+An autonomous conversational system with stateful multi-turn dialogue, structured outputs via the **Google Gemini API**, 10 custom external tools, automated payment verification, and clean human-[...]
 
 `Python` `FastAPI` `LangGraph` `Google Gemini` `WhatsApp Cloud API`
 
@@ -154,10 +154,11 @@ An autonomous conversational system with stateful multi-turn dialogue, structure
 ### 🌙 Krishna Chandra Astrology
 **Commercial Client SaaS Platform**
 
-A high-ticket astrology consultation platform — automated booking workflows, custom interactive UI, and live client scheduling. **Active in production**, generating real revenue for a real client.
+A high-ticket astrology consultation platform — automated booking workflows, custom interactive UI, and live client scheduling. **Active in production**, generating real revenue for a real clie[...]
 
 `TypeScript` `Next.js` `Tailwind CSS` `Vercel`
 
+[![Live](https://img.shields.io/badge/🌐_LIVE-Visit_Site-A78BFA?style=flat-square)](https://krishna-chandra-astrology.vercel.app/)
 [![Repo](https://img.shields.io/badge/📁_REPO-GitHub-181717?style=flat-square&logo=github)](https://github.com/piyushxlabs/krishna-chandra-astrology)
 
 </td>
@@ -172,9 +173,9 @@ A high-ticket astrology consultation platform — automated booking workflows, c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=piyushxlabs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0A0E14&title_color=00E5A0&icon_color=00C8FF&text_color=c9d1d9&cache_seconds=1800" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=piyushxlabs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0[...]
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushxlabs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320&bg_color=0A0E14&title_color=00E5A0&text_color=c9d1d9&cache_seconds=1800" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushxlabs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320&bg_color=0A0E14&title_color=00E5[...]
 
 <br/><br/>
 
@@ -221,6 +222,6 @@ If you're solving a real problem with AI — production, not proof-of-concept �
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5A0,50:0066FF,100:00C8FF&height=130&section=footer&text=piyushxlabs%20%E2%80%94%20Production-Grade%20AI%2C%20Shipped&fontSize=19&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5A0,50:0066FF,100:00C8FF&height=130&section=footer&text=piyushxlabs%20%E2%80%94%20Production-Grade%20AI%2C%20Shipped&fontSiz[...]
 
 </div>
