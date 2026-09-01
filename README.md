@@ -126,17 +126,17 @@ An AI sales closer that never sleeps. Deterministic **4-turn LangGraph qualifica
 </td>
 <td width="50%" valign="top">
 
-### 🎨 Piyush Premium Portfolio
-**Cinematic Developer Experience**
+### 🏛️ PramanAI (प्रमाण AI)
+**Autonomous Evidentiary GovTech Agent Fleet**
 
-Ultra-responsive, dark-mode developer experience built to stop visitors instantly — interactive shaders, an origin story timeline, dynamic glassmorphic UI, and micro-interactions tuned frame by frame.
+Google "All Things Agentic" Hackathon (Track 3). Deterministic **9-node LangGraph StateGraph** verifying 40k+ Indian Govt Orders with zero hallucinations, **Gemma 2 Model Armor** security shield, temporal lineage graph, and 1-click bilingual Secretariat Note-Sheet export.
 
-Not a template. A statement.
+**27/27 automated tests. 100% pass.** Deployed serverless on Google Cloud Run (`asia-south1`).
 
-`TypeScript` `Next.js 15` `React 19` `Tailwind CSS v4` `Framer Motion` `Vercel`
+`Python` `LangGraph` `Gemini 3.5 Flash` `Gemma 2` `PostgreSQL pgvector` `Cloud Run`
 
-[![Live](https://img.shields.io/badge/🌐_LIVE-Visit_Site-00C8FF?style=flat-square)](https://piyush-premium-portfolio.vercel.app)
-[![Repo](https://img.shields.io/badge/📁_REPO-GitHub-181717?style=flat-square&logo=github)](https://github.com/piyushxlabs/piyush-premium-portfolio)
+[![Repo](https://img.shields.io/badge/📁_REPO-GitHub-181717?style=flat-square&logo=github)](https://github.com/piyushxlabs/PramanAI)
+[![Demo](https://img.shields.io/badge/▶_DEMO-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/tjn1DVVB7-E)
 
 </td>
 </tr>
